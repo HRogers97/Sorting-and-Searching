@@ -12,3 +12,10 @@ C:\Users\1452176\Downloads\20181022023200_rogeHa3\rogeHa3\rogeHa3v5\obj\Debug\ro
 C:\Users\1452176\Downloads\20181022023200_rogeHa3\rogeHa3\rogeHa3v5\obj\Debug\rogeHa3v5.csproj.CoreCompileInputs.cache
 C:\Users\1452176\Downloads\20181022023200_rogeHa3\rogeHa3\rogeHa3v5\obj\Debug\rogeHa3v5.exe
 C:\Users\1452176\Downloads\20181022023200_rogeHa3\rogeHa3\rogeHa3v5\obj\Debug\rogeHa3v5.pdb
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\bin\Debug\rogeHa3v5.exe.config
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\bin\Debug\rogeHa3v5.exe
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\bin\Debug\rogeHa3v5.pdb
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\obj\Debug\rogeHa3v5.csprojAssemblyReference.cache
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\obj\Debug\rogeHa3v5.csproj.CoreCompileInputs.cache
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\obj\Debug\rogeHa3v5.exe
+C:\Users\xboxd\Documents\GitHub\Sorting-and-Searching\obj\Debug\rogeHa3v5.pdb

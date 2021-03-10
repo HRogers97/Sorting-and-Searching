@@ -1,7 +1,5 @@
 ﻿/************************************************ID BLOCK***********************************************
- * Due Date:             October 22nd, 2018
  * Software Designer:    Hunter Rogers
- * Deliverable:          Assignment #3 (Version 5) --- Sorting and Searching
  * 
  * Description:          This program works with an array of string names, and an array
  *                       of corresponding interger weights. The program outputs a menu
@@ -16,11 +14,6 @@
  *                       be found, or inform the user that their search has been found, 
  *                       along with it's position in the array, and the corresponding weight
  *******************************************************************************************************/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static System.Console;
 
 namespace rogeHa3v5
@@ -335,29 +328,29 @@ namespace rogeHa3v5
 
         static void SearchArray()
         {
-            string xnam;                                      //Stores user's search
+            string name;                                      //Stores user's search
 
             do
             {
                 WriteLine("Enter the name you want to search (Enter nothing to quit)");
-                xnam = ReadLine();
-                int pos = Bsrch(xnam, LSIZE);                //Get the position of the user's search (if found)
+                name = ReadLine();
+                int pos = Bsrch(name, LSIZE);                //Get the position of the user's search (if found)
 
-                if (xnam != "")                              //Only search if the user has entered a name
+                if (name != "")                              //Only search if the user has entered a name
                 {
                     if (pos != -1)                           //Was the name found?
                     {
-                        WriteLine(xnam + " was found at position " + pos + " and their body weight is " + WKwght[pos]); //Print found message
+                        WriteLine(name + " was found at position " + pos + " and their body weight is " + WKwght[pos]); //Print found message
                     }
                     else
                     {
-                        WriteLine(xnam + " was not found");  //Print not found message
+                        WriteLine(name + " was not found");  //Print not found message
                     }
                 }
 
                 ReadLine();
 
-            } while (xnam != "");
+            } while (name != "");
         }
     }
 }
