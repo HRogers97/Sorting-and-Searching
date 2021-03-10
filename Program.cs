@@ -123,7 +123,11 @@ namespace rogeHa3v5
             {
                 WriteLine("Invalid choice");
                 inChoice = ReadLine();
-                c = inChoice[0];
+                
+                if(inChoice != "") 
+                {
+                    c = inChoice[0];
+                }
             }
 
             return c;
